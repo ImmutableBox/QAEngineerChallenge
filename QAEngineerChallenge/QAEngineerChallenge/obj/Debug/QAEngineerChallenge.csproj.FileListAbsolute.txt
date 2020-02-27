@@ -1,0 +1,6 @@
+C:\Users\Paul Luu\source\repos\QAEngineerChallenge\QAEngineerChallenge\bin\Debug\QAEngineerChallenge.exe.config
+C:\Users\Paul Luu\source\repos\QAEngineerChallenge\QAEngineerChallenge\bin\Debug\QAEngineerChallenge.exe
+C:\Users\Paul Luu\source\repos\QAEngineerChallenge\QAEngineerChallenge\bin\Debug\QAEngineerChallenge.pdb
+C:\Users\Paul Luu\source\repos\QAEngineerChallenge\QAEngineerChallenge\obj\Debug\QAEngineerChallenge.csprojAssemblyReference.cache
+C:\Users\Paul Luu\source\repos\QAEngineerChallenge\QAEngineerChallenge\obj\Debug\QAEngineerChallenge.exe
+C:\Users\Paul Luu\source\repos\QAEngineerChallenge\QAEngineerChallenge\obj\Debug\QAEngineerChallenge.pdb

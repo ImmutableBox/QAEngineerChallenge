@@ -11,6 +11,11 @@
 8. Create a repo on github and commit the files that you've staged in your local repository.
 9. Add a detailed instruction on how to setup/launch your project.
 
+### Steps to open "C# Challenge" project:
+1. Open QAEngineerChallenge.sln in the QAEngineerChallenge folder with Visual Studio 2019
+2. Press the "Start" button in Visual Studio
+3. Press any key to exit
+
 ### Unity Challenge
 
 1. Import Trash Dash from the Unity Asset Store.
@@ -18,3 +23,8 @@
 3. Increase the amount of active missions from 2 to 4 in the Mission List.
 4. Create a repo on github and commit the files that you've staged in your local repository.
 5. Add a detailed instruction on how to setup/launch your project.
+
+### Steps to open "Unity Challenge" project:
+1. Open project folder "Trash Dash" in Unity 2019.3.2f1
+2. If not on "Main" scene change to "Main" scene
+3. Press the play button in Unity
