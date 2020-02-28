@@ -25,6 +25,6 @@
 5. Add a detailed instruction on how to setup/launch your project.
 
 ### Steps to open "Unity Challenge" project:
-1. Open project folder **Trash Dash** in Unity 2019.3.2f1
+1. Open project folder **Trash Dash** in Unity Version: 2019.3.2f1
 2. If not on **Main** scene change to **Main** scene
 3. Press the play button in Unity
