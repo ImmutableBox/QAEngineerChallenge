@@ -12,8 +12,8 @@
 9. Add a detailed instruction on how to setup/launch your project.
 
 ### Steps to open "C# Challenge" project:
-1. Open QAEngineerChallenge.sln in the QAEngineerChallenge folder with Visual Studio 2019
-2. Press the "Start" button in Visual Studio
+1. Open **QAEngineerChallenge.sln** in the **QAEngineerChallenge folder** with Visual Studio 2019
+2. Press the **Start"** button in Visual Studio to run
 3. Press any key to exit
 
 ### Unity Challenge
@@ -25,6 +25,6 @@
 5. Add a detailed instruction on how to setup/launch your project.
 
 ### Steps to open "Unity Challenge" project:
-1. Open project folder "Trash Dash" in Unity 2019.3.2f1
-2. If not on "Main" scene change to "Main" scene
+1. Open project folder **Trash Dash** in Unity 2019.3.2f1
+2. If not on **Main** scene change to **Main** scene
 3. Press the play button in Unity
