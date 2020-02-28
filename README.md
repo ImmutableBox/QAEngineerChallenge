@@ -13,8 +13,9 @@
 
 ### Steps to open "C# Challenge" project:
 1. Open **QAEngineerChallenge.sln** in the **QAEngineerChallenge folder** with Visual Studio 2019
-2. Press the **Start"** button in Visual Studio to run
-3. Press any key to exit
+2. On the Solution Explorer open the file **Solution.cs**
+3. Press the **Start"** button in Visual Studio to run
+4. Press any key to exit
 
 ### Unity Challenge
 
